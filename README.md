@@ -6,4 +6,4 @@
 
 欢迎交流或提供计算代码~
 
->如何提交自己的内容：先点击 Fork--- Add File --- 点击PR 或 在Issues中对一些计算的问题进行说明
+>如何提交自己的内容：先点击Fork---Add File---Pull Request *或* 在Issues中对一些计算的问题进行说明
